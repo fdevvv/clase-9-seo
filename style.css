@@ -1,0 +1,20 @@
+header {
+    background-color: black;
+}
+
+header nav {
+    width: 40%;
+}
+
+nav {
+    width: 50%;
+}
+
+
+header nav ul li {
+    font-size: 1.5rem;
+}
+
+li {
+    font-size: 3rem;
+}
